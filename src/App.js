@@ -6,7 +6,6 @@ import {Routes, Route} from 'react-router-dom'
 import NavFooter from './NavFooter'
 import ConnectPage from './routes/ConnectPage'
 import Login from './Login';
-import NavigationBar from './NavigationBar';
 import Signup from './Signup';
 
 
